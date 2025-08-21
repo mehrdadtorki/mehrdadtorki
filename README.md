@@ -1,6 +1,6 @@
 # 👋 Hello! I'm Mehrdad Torki
 
-**`Software Engineer | Full Stack Developer | Tech Enthusiast`**
+**`Software Developer | Full Stack Developer | Tech Enthusiast`**
 
 Welcome to my GitHub! I'm passionate about building powerful applications, exploring new technologies, and contributing to open-source projects. My specialties include front-end development with React & Flutter, back-end with Node.js, and database management. Here, you'll find some of my latest projects, experiments, and collaborative work.
 
